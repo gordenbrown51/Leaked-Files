@@ -1,0 +1,96 @@
+[2016-07-04 23:23 Europe/Belgrade] Error!
+[2016-08-26 22:17 Europe/Belgrade] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 818
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&mc_gross=2.50&invoice=354-DS358423&protection_eligibility=Ineligible&payer_id=4GYFLGVJ6D674&tax=0.00&payment_date=13%3A16%3A53+Aug+26%2C+2016+PDT&payment_status=Completed&charset=windows-1252&first_name=Skorpion&mc_fee=0.44&notify_version=3.8&custom=&payer_status=verified&business=morenja%40hotmail.com&quantity=1&verify_sign=AQP3jQsZ5Rm.q2HXFg3tYOEB-.DMAImXKmyfNhrKe5j5DEOEZBjjrnIp&payer_email=asmirbulja%40gmail.com&txn_id=3U4848433R628074U&payment_type=instant&last_name=Zodijak&receiver_email=morenja%40hotmail.com&payment_fee=&receiver_id=DG9VKDY7GCA4G&txn_type=web_accept&item_name=Morenja.info+Payment+Add+Funds&mc_currency=EUR&item_number=&residence_country=BA&handling_amount=0.00&transaction_subject=Morenja.info+Payment+Add+Funds&payment_gross=&shipping=0.00&ipn_track_id=c25389fc58a4d
+[2016-08-26 22:17 Europe/Belgrade] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 15283ca235995
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Fri, 26 Aug 2016 20:17:06 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cl4Eg0OdMLeSMoZ71heyTReEhh_dg03UvO3Cfqq991Esc9VPAPosholHeWh7tsw8-VpchgRr5Czhln36YZW8WD2W2yhANlWRpYV7eSxYg0dr2_9SAffu16MAzOuEEkbV8b10O6siYqIyRuPBylcnWTwQuAIqVHluNaUac3VLLixGHyLALy4cEFek65prjpHW77lrlv8IMmL6DMnNosaatyzGvTc34T70fz9N9AfmAr-n-0xPvdJjaDRJyf5G-ycuPCiGLzUsEWlY1Y38m7oh_GZ2KGJkdXZtXrDTwp_09tdPTxDuKOubIP4L-DdfysgsqGfOeBhUqEo1NtwB2YA6KxdtNk3cyeY-L4Rf19Jv1SyY8xM3jBrEzti-92aF7t1H9ErjZNwGsawqvPBFDIVhjJeZy5kfpGOyvTb_-8eysdSWAAUxTRkadsaJfq0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Aug-2026 20:17:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Aug-2018 20:17:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3265511511%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Fri, 26 Aug 2016 20:47:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Fri, 26-Aug-2016 20:47:06 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2016-08-26 22:17 Europe/Belgrade] Verified IPN: cmd=_notify-validate&mc_gross=2.50&invoice=354-DS358423&protection_eligibility=Ineligible&payer_id=4GYFLGVJ6D674&tax=0.00&payment_date=13%3A16%3A53+Aug+26%2C+2016+PDT&payment_status=Completed&charset=windows-1252&first_name=Skorpion&mc_fee=0.44&notify_version=3.8&custom=&payer_status=verified&business=morenja%40hotmail.com&quantity=1&verify_sign=AQP3jQsZ5Rm.q2HXFg3tYOEB-.DMAImXKmyfNhrKe5j5DEOEZBjjrnIp&payer_email=asmirbulja%40gmail.com&txn_id=3U4848433R628074U&payment_type=instant&last_name=Zodijak&receiver_email=morenja%40hotmail.com&payment_fee=&receiver_id=DG9VKDY7GCA4G&txn_type=web_accept&item_name=Morenja.info+Payment+Add+Funds&mc_currency=EUR&item_number=&residence_country=BA&handling_amount=0.00&transaction_subject=Morenja.info+Payment+Add+Funds&payment_gross=&shipping=0.00&ipn_track_id=c25389fc58a4d 
+[2016-08-26 22:24 Europe/Belgrade] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 744
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=13%3A24%3A33+Aug+26%2C+2016+PDT&txn_type=web_accept&last_name=Zodijak&residence_country=BA&item_name=Morenja.info+Payment+Add+Funds&payment_gross=&mc_currency=EUR&business=morenja%40hotmail.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=A3jiYmmG2eu7FVU7v2qrVbscjJ4.ARpmatsLAcPVpMNCW8b0.0inEk3A&payer_status=verified&payer_email=asmirbulja%40gmail.com&txn_id=13N73461AV8787025&quantity=1&receiver_email=morenja%40hotmail.com&first_name=Skorpion&invoice=354-CG218427&payer_id=4GYFLGVJ6D674&receiver_id=DG9VKDY7GCA4G&item_number=&payment_status=Completed&payment_fee=&mc_fee=0.38&mc_gross=1.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=4b19e41ce8e7c
+[2016-08-26 22:24 Europe/Belgrade] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 103767cdac310
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+Date: Fri, 26 Aug 2016 20:24:44 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=kqXZyBhcwubnnrGmRzNPmz8qDr_zffmvT6YlechfreUOxwk0RQ3ju4Zkzr-7AmPG6MQCC7HzXHFoy1K-BHJIiBebJk3484NRLMzuOfte4M68MG1aHkz4NTyQxaSpH1FLOEE1DZ1RxOfQ7zKTbA9s2vs1CEIeX3AVWw8ngDsM9QpMo-CmWTa7GwdBiz1N_H4HNs5pIMwhDi-FkBITGQOIe983lz5xVzWuzgl44MzIBQAgSRh0J_1wYrAJHnG7pb5CxJYWoBmVYBWZSetiumZfbXEXyIIFx7AwmRd92kCGjNOk0rhcrfN7nXYWNZdr36f28xY0bRF3vzAnwqxM-La0Py_83NMAhDincixzT5JbRabdhL194MgTC0OWUGapo4B_TBKx9gg0G71vopFXMKp8AiwS5MH1GTPefaXxsOu6hz9Or-YjhV67llFhOPG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Aug-2026 20:24:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Aug-2018 20:24:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2342895703%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 26 Aug 2016 20:54:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Fri, 26-Aug-2016 20:54:44 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2016-08-26 22:24 Europe/Belgrade] Verified IPN: cmd=_notify-validate&transaction_subject=&payment_date=13%3A24%3A33+Aug+26%2C+2016+PDT&txn_type=web_accept&last_name=Zodijak&residence_country=BA&item_name=Morenja.info+Payment+Add+Funds&payment_gross=&mc_currency=EUR&business=morenja%40hotmail.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=A3jiYmmG2eu7FVU7v2qrVbscjJ4.ARpmatsLAcPVpMNCW8b0.0inEk3A&payer_status=verified&payer_email=asmirbulja%40gmail.com&txn_id=13N73461AV8787025&quantity=1&receiver_email=morenja%40hotmail.com&first_name=Skorpion&invoice=354-CG218427&payer_id=4GYFLGVJ6D674&receiver_id=DG9VKDY7GCA4G&item_number=&payment_status=Completed&payment_fee=&mc_fee=0.38&mc_gross=1.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=4b19e41ce8e7c 
+[2016-10-17 17:50 Europe/Belgrade] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 767
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=08%3A50%3A11+Oct+17%2C+2016+PDT&txn_type=web_accept&last_name=Dzanan&residence_country=BA&item_name=Morenja.info+Payment+Add+Funds&payment_gross=&mc_currency=EUR&business=morenja%40hotmail.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AFUhKvG.hUdp5nbFdrFGZHB7E92YA9TJXVF4X1YFXzPy0jgbCsa9Ei3P&payer_status=verified&payer_email=vernesa%40bih.net.ba&txn_id=6GM644792J7480738&quantity=1&receiver_email=morenja%40hotmail.com&first_name=Mirsad&invoice=535-HF313275&payer_id=J3CDU4PZ79DU4&receiver_id=DG9VKDY7GCA4G&item_number=&payer_business_name=dzanii&payment_status=Completed&payment_fee=&mc_fee=0.69&mc_gross=10.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=ef7eb70a7a924
+[2016-10-17 17:50 Europe/Belgrade] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+HTTP_X_PP_AZ_LOCATOR: slcb.slc
+Paypal-Debug-Id: 567aad4a14b5
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+Date: Mon, 17 Oct 2016 15:50:40 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=t3ETeSAOmA-OR6KhgSuhHjpyFsSEIDBuQJ9JPFNJzMXoRKNbLMM1yMB0AwDup-zLWr92fX1uD1l9PTY5ARvUSsLzOcpnCUhxVborwdMQgdMkgF3x_DDZe2c_oCSJ2sYFYwCtCsQIlteqJU7bvVu7MHPOe1a1HxemOWHgEqXI_73JLFsOe9UbjVYSIqDypZdlEF5jOP7q2gO58aqX7my1I4Vw9IFULiXGB_J6u5sBrkMeYgEwMXkXN_DWqLfUEZnq7WQI654cfI96uA8gYItrifBeLWSA4GcyUTtTQ-2_sELmi7glphHQgrTVkH3U9XICj04O8XQqWlGdet8lGCq_1c5A_gm96QMyWQBJ0ZlDF-s8JNYHkEIua50n6XnoJe3saiPPhBC6aQkIoM2zmGLjE7OH3ajEFckHtq-WDjOjrU0Y7z6JMGi_OsBT6Te; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 15-Oct-2026 15:50:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 17-Oct-2018 15:50:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1341326424%26HTTP_X_PP_AZ_LOCATOR%3Dslcb.slc; Expires=Mon, 17 Oct 2016 16:20:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Mon, 17-Oct-2016 16:20:40 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2016-10-17 17:50 Europe/Belgrade] Verified IPN: cmd=_notify-validate&transaction_subject=&payment_date=08%3A50%3A11+Oct+17%2C+2016+PDT&txn_type=web_accept&last_name=Dzanan&residence_country=BA&item_name=Morenja.info+Payment+Add+Funds&payment_gross=&mc_currency=EUR&business=morenja%40hotmail.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AFUhKvG.hUdp5nbFdrFGZHB7E92YA9TJXVF4X1YFXzPy0jgbCsa9Ei3P&payer_status=verified&payer_email=vernesa%40bih.net.ba&txn_id=6GM644792J7480738&quantity=1&receiver_email=morenja%40hotmail.com&first_name=Mirsad&invoice=535-HF313275&payer_id=J3CDU4PZ79DU4&receiver_id=DG9VKDY7GCA4G&item_number=&payer_business_name=dzanii&payment_status=Completed&payment_fee=&mc_fee=0.69&mc_gross=10.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=ef7eb70a7a924 
